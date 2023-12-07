@@ -1,0 +1,31 @@
+html,body{
+    height: fill;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(56, 58, 62)
+}
+
+article{
+    color: white;
+}
+
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: 70px;
+}
+
+form{
+    margin-top: 30px;
+    width: 25%;
+}
+
+fieldset{
+    background-color:rgb(144, 26, 255);
+    border: rgb(240, 110, 255) solid;
+}
