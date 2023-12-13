@@ -1,4 +1,4 @@
-body{
+.body{
     margin: 0;
     padding: 0;
     background: rgb(0, 0, 0);
@@ -44,7 +44,7 @@ body{
     border-radius: 50%;
     box-shadow: 0 0 5px rgb(0, 247, 255);
   }
-  span{
+  .span1{
     color: #0bdcfc;
     font-size: 30px;
     text-transform: uppercase;
@@ -56,17 +56,6 @@ body{
     50%{
       color: black;
     }
-  }
-
-  .circle{
-    width: 100px;
-    height: 100px;
-    border: 1px;
-    border-radius: 50%;
-    background: #3d57cc;
-    transition: all 500ms ease;
-    transition-delay: 1s;
-
   }
 
 

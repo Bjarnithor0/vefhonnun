@@ -1,21 +1,21 @@
 html,body{
     height: fill;
 }
-body{
+.body2{
     font-family: 'Nunito', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
     background-color: rgb(138, 73, 212)
 }
 
-article{
+.article1{
     color: white;
     size: 300px;
     justify-items: center;
 }
 
 
-img{
+.img2{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -31,7 +31,7 @@ p{
 }
 
 
-a{
+.a2{
     color: violet;
     border-radius: 4px;
     border-color: rgb(26, 255, 0);
@@ -40,7 +40,7 @@ a{
     size: 100px;
 }
 
-a:hover{
+.a2:hover{
     color: rgb(144, 0, 255);
 }
 
@@ -48,7 +48,7 @@ h1{
     color: violet;
 }
 
-.valmynd{
+.valmynd2{
     display:grid;
     grid-template-columns:repeat(4,1fr);
     justify-items: center;

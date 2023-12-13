@@ -1,7 +1,7 @@
 html,body{
     height: fill;
 }
-body{
+.body1{
     font-family: 'Nunito', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
@@ -12,15 +12,7 @@ article{
     color: white;
 }
 
-
-img{
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin-left: 70px;
-}
-
-form{
+.form1{
     margin-top: 30px;
     width: 25%;
 }
